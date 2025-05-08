@@ -1,4 +1,4 @@
-# 📱 Customer Churn Prediction using Machine Learning
+# 🔁 Predicting Customer Churn with Machine Learning
 
 ## Project Overview
 This project uses a **Random Forest Classification model** to predict customer churn for a telecommunications company. Understanding and anticipating churn is critical to reducing revenue loss. By identifying which customers are likely to cancel their service, the company can intervene with targeted retention strategies like loyalty offers, service improvements, or support outreach.

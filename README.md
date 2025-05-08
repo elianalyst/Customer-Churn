@@ -15,6 +15,8 @@ Which customers are likely to churn, and what characteristics make them high-ris
 
 ## Technologies Used
 - Python
+- scikit-learn  
+
 
 ## Full Report
 To explore the full analysis, including code and key takeaways, view the complete [Jupyter Notebook](./Task%201%20Work.ipynb).
